@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sheraz/MLOps Project/mlruns/0/a03ec3fa6b374fbbb8ed96146ca371b0/artifacts
+end_time: 1746873460687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a03ec3fa6b374fbbb8ed96146ca371b0
+run_name: luminous-bug-656
+run_uuid: a03ec3fa6b374fbbb8ed96146ca371b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746873454962
+status: 3
+tags: []
+user_id: sheraz

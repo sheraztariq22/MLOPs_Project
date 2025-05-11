@@ -1,0 +1,6 @@
+mlflow
+dvc
+scikit-learn
+pandas
+flake8
+pytest
